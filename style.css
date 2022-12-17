@@ -1,0 +1,29 @@
+#heading-nithin:hover{
+          color: crimson;
+      }
+      #navig:hover{ 
+          background-color: crimson;
+      }
+      #about_me_head:hover{
+          color: crimson;
+      }
+      #service_card:hover{ 
+          background-color: crimson;
+      }
+      .service_bg{
+          background-color: red;
+      }
+
+#heading-nithin{
+          padding-left: 10%;
+          font-weight: 600;
+}
+
+.nav_details{
+          font-weight: 200;
+}
+
+.detail_id{
+          color: black;
+          font-weight: bold;
+}
